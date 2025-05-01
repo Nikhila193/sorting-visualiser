@@ -16,5 +16,3 @@ This project is an interactive Sorting Visualizer designed to showcase sorting a
 - **JavaScript**
 - **Sorting Algorithms**
 
-## Installation
-
