@@ -17,3 +17,4 @@ This project is an interactive Sorting Visualizer designed to showcase sorting a
 - **Sorting Algorithms**
 
 ## Installation
+
